@@ -1,0 +1,10 @@
+{
+    "slidev.preview-sync": false,
+    "workbench.colorTheme": "Abyss",
+    "workbench.preferredDarkColorTheme": "Abyss",
+    "workbench.preferredHighContrastColorTheme": "Visual Studio Dark",
+    "slidev.include": [
+        "slides.md"
+    ],
+    "slidev.port": 3030
+}
